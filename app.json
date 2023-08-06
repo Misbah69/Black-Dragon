@@ -6,7 +6,7 @@
   "success_url": "/",
   "stack": "container",
 "env": {
-  "OWNER_NAME": {
+  "OWNER_NAME": {༒𝛥𝑌𝛥𝛮༒🌔
   "description": "Name of Bot Owner",
       "value": "Eren Yeager"
   },
@@ -64,7 +64,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94786802371"
+       "value": "9153043616"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here"
@@ -92,7 +92,7 @@
      "required": false 
   },
   "PACK_INFO": {
-    "description": "Put packname;authorname.",
+    "description": "༒𝛥𝑌𝛥𝛮༒🌔.",
      "value": "",
      "required": false 
   },
